@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/kori_koy/)
 
 
-- 🔭 Atualmente nao trabalho, aberto a oportunidades!!!
+- 🔭 Atualmente nao trabalho, aberto a oportunidades!
 - 🌱 Estudando - Kotlin/ arquitetura MVVM/ Coroutines retrofit/ MockK - 
 - 💬 Viciado em games, d&d e series, e programando na maior parte do tempo
 ##
